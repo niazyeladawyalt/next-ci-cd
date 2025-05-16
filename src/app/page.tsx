@@ -1,4 +1,5 @@
 import Image from "next/image";
+import MissingModule from './this-module-does-not-exist'
 
 export default function Home() {
 
